@@ -1,0 +1,2 @@
+I am a text file, placed in a folder.
+I am here to help us understand relative (and maybe absolute) paths
